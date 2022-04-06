@@ -1,11 +1,11 @@
-.psk
+.psk.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensions
+# C extensionsK
 *.so
 
 # Distribution / packaging
